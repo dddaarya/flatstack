@@ -1,4 +1,3 @@
-Минникаев Мансур, [23.07.21 04:52]
 # encoding: utf-8
 class NumberSequence
 
